@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/soh"
+        android:orderInCategory="1"
+        android:title="Сохранить" />
+    <item
+        android:id="@+id/posm"
+        android:orderInCategory="2"
+        android:title="Посмотреть записи" />
+    <item
+        android:id="@+id/ud"
+        android:orderInCategory="3"
+        android:title="Удалить записи" />
+</menu>
